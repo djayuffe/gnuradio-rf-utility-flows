@@ -21,7 +21,7 @@
     </param>
     <param>
       <key>description</key>
-      <value>Modernized GNU Radio Companion flowgraph generated from archived untitled.grc.</value>
+      <value>Modern GNU Radio Companion flowgraph validated for this repository.</value>
     </param>
     <param>
       <key>window_size</key>
@@ -146,7 +146,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/ulf/key.wav</value>
+      <value>samples/key.wav</value>
     </param>
     <param>
       <key>repeat</key>
@@ -398,7 +398,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/ulf/hack/data.wav</value>
+      <value>captures/data.wav</value>
     </param>
     <param>
       <key>type</key>

@@ -21,7 +21,7 @@
     </param>
     <param>
       <key>description</key>
-      <value>Transmits WBFM from pc audio</value>
+      <value>Modern GNU Radio Companion flowgraph validated for this repository.</value>
     </param>
     <param>
       <key>window_size</key>

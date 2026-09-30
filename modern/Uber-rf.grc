@@ -21,7 +21,7 @@
     </param>
     <param>
       <key>description</key>
-      <value>RF Exploit kit</value>
+      <value>Modern GNU Radio Companion flowgraph validated for this repository.</value>
     </param>
     <param>
       <key>window_size</key>
@@ -1247,7 +1247,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/tmp/fifo</value>
+      <value>captures/demodulated.float32</value>
     </param>
     <param>
       <key>type</key>
